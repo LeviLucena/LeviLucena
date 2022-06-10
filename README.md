@@ -7,4 +7,5 @@
 I am an IT professional with knowledges in Software Engineering and Systems Analysis and Development. 
 <br>:briefcase: Join my network on LinkedIn
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levilucena&layout=compact)](https://github.com/levilucena/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levilucena&show_icons=true)
