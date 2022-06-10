@@ -4,8 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levilucena/)](https://www.linkedin.com/in/lvilucena/)
 
 ### About me
-I am an IT professional with knowledges in Software Engineering and Systems Analysis and Development. 
-<br>:briefcase: Join my network on LinkedIn
+I am an IT professional with knowledges in Software Engineering and Systems Analysis and Development. :briefcase: Join my network on LinkedIn
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levilucena&layout=compact)](https://github.com/levilucena/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levilucena&show_icons=true)
