@@ -6,5 +6,6 @@
 ### About me
 I'm an IT professional with knowledges in Software Engineering and Systems Analysis and Development. :briefcase: Join my network on LinkedIn
 
-[![levilucena](https://github-readme-stats.vercel.app/api/top-langs/?username=levilucena&hide=html&layout=compact&theme=default)](https://github.com/levilucena/github-readme-stats)
 [![card](https://github-readme-stats.vercel.app/api?username=LeviLucena&theme=default&show_icons=true)]([https://github.com/LeviLucena])
+[![levilucena](https://github-readme-stats.vercel.app/api/top-langs/?username=levilucena&hide=html&layout=compact&theme=default)](https://github.com/levilucena/github-readme-stats)
+
