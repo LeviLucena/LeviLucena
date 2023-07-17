@@ -9,3 +9,4 @@ I'm an IT professional with knowledges in Software Engineering and Systems Analy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levilucena&layout=compact)](https://github.com/levilucena/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levilucena&show_icons=true)
+[![card](https://github-readme-stats.vercel.app/api?username=LeviLucena&theme=default&show_icons=true)]([https://github.com/LeviLucena])
