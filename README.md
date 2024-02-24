@@ -4,7 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levilucena/)](https://www.linkedin.com/in/levilucena)
 
 ### About me
-IT professional with knowledge in Software Engineering and Systems Analysis and Development. :briefcase: Join my network on LinkedIn
+Professional with over 10 years of experience in Administration and Technology fields, seeking new challenges to apply my expertise in Software Engineering, Systems Analysis and Development, Administration, and Business. Throughout my career, I have acquired skills in these areas and am eager to utilize this expertise in innovative and impactful projects. I am available to provide professional references upon request.
+
+Portfolio: (https://levilucena.github.io/portfolio/)
 
 [![card](https://github-readme-stats.vercel.app/api?username=LeviLucena&theme=default&show_icons=true)](https://github.com/LeviLucena)
 [![levilucena](https://github-readme-stats.vercel.app/api/top-langs/?username=levilucena&hide=html&layout=compact&theme=default)](https://github.com/levilucena/github-readme-stats)
