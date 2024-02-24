@@ -15,3 +15,13 @@ Portfolio: https://levilucena.github.io/portfolio
 - [JustClock Store](https://www.justclock.store/)
 - [EbookPlay Shop](https://ebookplay.kpages.online/shop)
 - [My Badges on Credly](https://www.credly.com/users/levi-gustavo-oliveira-lucena)
+
+💖 **Apoie meus projetos**
+
+Disponibilizo como código aberto quase tudo o que posso e tento responder a todos que precisam de ajuda para utilizar esses projetos. Claro, isso demanda tempo. Utilize este serviço gratuitamente.
+
+No entanto, se você utilizar este projeto e estiver satisfeito com ele, ou apenas quiser me encorajar a continuar criando coisas, existem algumas formas fazê-lo:
+
+- Dando os devidos créditos ao usar `meus projetos` no seu README.md, adicionando uma referência ao projeto :D
+- Dando uma estrela (Starring) e compartilhando o projeto 🚀
+
