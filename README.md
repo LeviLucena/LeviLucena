@@ -2,7 +2,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LeviLucena)](https://github.com/LeviLucena)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levilucena/)](https://www.linkedin.com/in/levilucena)
-<a href="https://www.amazon.com/dp/B0CVTGM48Q"><img src="/icons/amazon_icon.png" alt="Amazon Badge" style="height: auto !important;width: auto !important;" ></a>
 
 
 ### About me
