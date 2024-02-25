@@ -12,11 +12,6 @@ Portfolio: https://levilucena.github.io/portfolio
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levilucena&hide=html&layout=compact&theme=default)](https://github.com/levilucena/github-readme-stats)
 
 ### My Stores and Badges
-- [JustClock Store](https://www.justclock.store/)
-- [EbookPlay Shop](https://ebookplay.kpages.online/shop)
-- [My Badges on Credly](https://www.credly.com/users/levi-gustavo-oliveira-lucena)
-
-### My Stores and Badges
 - [JustClock Store](https://www.justclock.store/) ⏰
 - [EbookPlay Shop](https://ebookplay.kpages.online/shop) 📖
 - [My Badges on Credly](https://www.credly.com/users/levi-gustavo-oliveira-lucena) 🏅
