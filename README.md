@@ -16,3 +16,7 @@ Portfolio: https://levilucena.github.io/portfolio
 - [EbookPlay Shop](https://ebookplay.kpages.online/shop)
 - [My Badges on Credly](https://www.credly.com/users/levi-gustavo-oliveira-lucena)
 
+### My Stores and Badges
+- [JustClock Store](https://www.justclock.store/) ⏰
+- [EbookPlay Shop](https://ebookplay.kpages.online/shop) 📖
+- [My Badges on Credly](https://www.credly.com/users/levi-gustavo-oliveira-lucena) 🏅
