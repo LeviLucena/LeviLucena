@@ -10,8 +10,8 @@ Portfolio: https://levilucena.github.io/portfolio
 
 [![card](https://github-readme-stats.vercel.app/api?username=LeviLucena&theme=default&show_icons=true)](https://github.com/LeviLucena)
 [![levilucena](https://github-readme-stats.vercel.app/api/top-langs/?username=levilucena&hide=html&layout=compact&theme=default)](https://github.com/levilucena/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=levilucena)](https://github.com/levilucena/github-readme-stats)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/levilucena/github-readme-stats) 
+[![Compact layout](https://github-readme-stats.vercel.app/api/Compact?username=ffflabs)](https://github.com/levilucena/github-readme-stats)
 ### My Stores and Badges
 - [JustClock Store](https://www.justclock.store/)
 - [EbookPlay Shop](https://ebookplay.kpages.online/shop)
