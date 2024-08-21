@@ -2,6 +2,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LeviLucena)](https://github.com/LeviLucena)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levilucena/)](https://www.linkedin.com/in/levilucena)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/levi.lucena//)](https://www.instagram.com/levi.lucena//)
+
 
 ### About me
 Professional with over 10 years of experience in Administration and Technology fields, seeking new challenges to apply my expertise in Software Engineering, Systems Analysis and Development, Administration, and Business. Throughout my career, I have acquired skills in these areas and am eager to utilize this expertise in innovative and impactful projects. I am available to provide professional references upon request.
