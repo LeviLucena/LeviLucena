@@ -6,7 +6,7 @@
 
 
 ### About me
-Professional with over 10 years of experience in Administration and Technology fields, seeking new challenges to apply my expertise in Software Engineering, Systems Analysis and Development, Administration, and Business. Throughout my career, I have acquired skills in these areas and am eager to utilize this expertise in innovative and impactful projects. I am available to provide professional references upon request.
+I am a professional with over 10 years of experience in Administration and Technology. I am currently seeking new challenges to leverage my expertise in Software Engineering, Systems Analysis and Development, Administration, and Business. Throughout my career, I have developed a robust skill set in these areas and am eager to contribute to innovative and impactful projects. Professional references are available upon request.
 
 Portfolio: https://levilucena.github.io/portfolio
 
