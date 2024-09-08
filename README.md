@@ -4,6 +4,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LeviLucena)](https://github.com/LeviLucena)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levilucena/)](https://www.linkedin.com/in/levilucena/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/levi.lucena/)](https://www.instagram.com/levi.lucena/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Sr.Lucena)](https://www.facebook.com/Sr.Lucena)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=Portfolio&logoColor=white&link=https://levilucena.github.io/portfolio/)](https://levilucena.github.io/portfolio/)
 
 With over a decade of experience in Administration and Technology, I bring a wealth of knowledge in Software Engineering, Systems Analysis, Development, and Business Management. I am passionate about tackling new challenges and leveraging my skill set to drive innovation and achieve impactful results. My career has been marked by a commitment to excellence and a proactive approach to problem-solving. I am eager to collaborate on cutting-edge projects and contribute to dynamic teams. Professional references are available upon request.
