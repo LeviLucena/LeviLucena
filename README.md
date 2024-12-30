@@ -10,7 +10,7 @@
 
 With over a decade of experience in Administration and Technology, I bring a wealth of knowledge in Software Engineering, Systems Analysis, Development, and Business Management. I am passionate about tackling new challenges and leveraging my skill set to drive innovation and achieve impactful results. My career has been marked by a commitment to excellence and a proactive approach to problem-solving. I am eager to collaborate on cutting-edge projects and contribute to dynamic teams. Professional references are available upon request.
 
-"If you enjoyed my work and want to help me grab a coffee, feel free to make a donation: [☕ Buy me a coffee!](https://www.paypal.com/donate/?hosted_button_id=58DYCL22CTERG)
+"If you enjoyed my work and want to help me, feel free to make a donation: [☕ Buy me a coffee!](https://www.paypal.com/donate/?hosted_button_id=58DYCL22CTERG)
 
 ### 🛒 My Stores
 
