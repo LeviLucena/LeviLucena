@@ -25,5 +25,6 @@ With over a decade of experience in Administration and Technology, I bring a wea
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=Portfolio&logoColor=white&link=https://levilucena.github.io/portfolio/)](https://levilucena.github.io/portfolio/)
 
-[![card](https://github-readme-stats.vercel.app/api?username=LeviLucena&theme=default&show_icons=true)](https://github.com/LeviLucena)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levilucena&hide=html&layout=compact&theme=default)](https://github.com/levilucena/github-readme-stats)
+| **Estatísticas de GitHub** | **Linguagens Mais Utilizadas** |
+|----------------------------|--------------------------------|
+| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=LeviLucena&show_icons=true&theme=default) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviLucena&layout=compact&hide=html,css&theme=default) |
