@@ -1,30 +1,43 @@
-# 👋 Hi, I'm Levi!
+### 🌐 Connect with Me
 
-### 🌐 About Me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LeviLucena)](https://github.com/LeviLucena)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/levilucena)](https://www.kaggle.com/levilucena)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levilucena/)](https://www.linkedin.com/in/levilucena/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/levi.lucena/)](https://www.instagram.com/levi.lucena/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Sr.Lucena)](https://www.facebook.com/Sr.Lucena)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=Portfolio&logoColor=white&link=https://levilucena.github.io/portfolio/)](https://levilucena.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/levilucena/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/LeviLucena)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-007bff?style=flat-square&logo=Portfolio&logoColor=white)](https://levilucena.github.io/portfolio/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/levilucena)
+[![Credly](https://img.shields.io/badge/Credly_Badges-28a745?style=flat-square&logo=badge&logoColor=white)](https://www.credly.com/users/levi-gustavo-oliveira-lucena)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/levi.lucena/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/Sr.Lucena)
+[![JustClock](https://img.shields.io/badge/JustClock-FF5733?style=flat-square)](https://www.justclock.store/)
+[![EbookPlay](https://img.shields.io/badge/EbookPlay-33C1FF?style=flat-square)](https://ebookplay.kpages.online/shop)
 
-With over a decade of experience in Administration and Technology, I bring a wealth of knowledge in Software Engineering, Systems Analysis, Development, and Business Management. I am passionate about tackling new challenges and leveraging my skill set to drive innovation and achieve impactful results. My career has been marked by a commitment to excellence and a proactive approach to problem-solving. I am eager to collaborate on cutting-edge projects and contribute to dynamic teams. Professional references are available upon request.
+---
 
-"If you enjoyed my work and want to help me, feel free to make a donation: [☕ Buy me a coffee!](https://www.paypal.com/donate/?hosted_button_id=58DYCL22CTERG)
+# 👋 Hello, I'm Levi Lucena
 
-### 🛒 My Stores
+### 🚀 About Me
 
-[![JustClock Store](https://img.shields.io/badge/JustClock_Store-000?style=flat-square&logo=clock&logoColor=white&link=https://www.justclock.store/)](https://www.justclock.store/)
-[![EbookPlay Shop](https://img.shields.io/badge/EbookPlay_Shop-000?style=flat-square&logo=book&logoColor=white&link=https://ebookplay.kpages.online/shop)](https://ebookplay.kpages.online/shop)
+With over a decade of experience in Administration and Technology, I specialize in designing and building scalable, data-driven applications, APIs, and intelligent systems using AI, LLMs, automation, and cloud infrastructure. I’m passionate about solving real-world problems through clean architecture, high-performance systems, and intuitive user experiences. I work across the full stack and bring business thinking to every technical decision.  
 
-### 🏷️ Badges & Achievements
+☕ If you like what I do and want to support my work: [**Buy me a coffee**](https://www.paypal.com/donate/?hosted_button_id=58DYCL22CTERG)
+---
 
-[![Credly Badges](https://img.shields.io/badge/Credly_Badges-000?style=flat-square&logo=badge&logoColor=white&link=https://www.credly.com/users/levi-gustavo-oliveira-lucena)](https://www.credly.com/users/levi-gustavo-oliveira-lucena)
+### 🧰 Tech Stack & Tools
+| Category               | Technologies                                                                                                                                                                                                                                                                 |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **🌐 Languages**       | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/) |
+| **🚀 Frameworks**      | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)  [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/) [![Dash](https://img.shields.io/badge/Dash-1E1E1E?logo=plotly&logoColor=white)](https://dash.plotly.com/) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/) |
+| **🎨 Frontend**        | [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](...) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white)](https://ui.shadcn.com/) [![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF4784?logo=framer&logoColor=white)](https://www.framer.com/motion/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)|
+| **🤖 AI/Data Science** | [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](https://platform.openai.com/) [![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-5C2D91?logo=semantic-release&logoColor=white)](https://www.sbert.net/) [![FAISS](https://img.shields.io/badge/FAISS-005571?logo=facebook&logoColor=white)](https://github.com/facebookresearch/faiss) [![LLM](https://img.shields.io/badge/LLM-FF6F00?logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Large_language_model) |
+| **🖼️ Computer Vision**| [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/) [![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=github&logoColor=black)](https://github.com/ultralytics/ultralytics) [![Tesseract](https://img.shields.io/badge/Tesseract_OCR-5A4FCF?logo=tesseract&logoColor=white)](https://pypi.org/project/pytesseract/) |
+| **☁️ APIs & Cloud**   | [![WeatherAPI](https://img.shields.io/badge/WeatherAPI-00A4DC?logo=cloud&logoColor=white)](https://www.weatherapi.com/) [![Meteoblue](https://img.shields.io/badge/Meteoblue-0082C8?logo=cloud&logoColor=white)](https://content.meteoblue.com/en/access/weather-apis) [![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-EA7600?logo=openweathermap&logoColor=white)](https://openweathermap.org/api) |
+| **🗃️ Databases**      | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=python&logoColor=white)](https://www.sqlalchemy.org/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/) |
+| **🛠️ DevOps**        | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/) [![Docker Compose](https://img.shields.io/badge/Docker_Compose-3855D6?logo=docker&logoColor=white)](https://docs.docker.com/compose/) [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/) [![Requests](https://img.shields.io/badge/Requests-20232A?logo=python&logoColor=white)](https://requests.readthedocs.io/) [![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?logo=python&logoColor=black)](https://pypi.org/project/python-dotenv/) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions) [![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)](https://www.nginx.com/) |                                                                                                                               |
+---
 
-🔗 **Explore** 
+### 📈 GitHub Activity
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=Portfolio&logoColor=white&link=https://levilucena.github.io/portfolio/)](https://levilucena.github.io/portfolio/)
+| 📊 Stats | 📌 Top Languages |
+|----------|------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeviLucena&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviLucena&layout=compact&hide=html,css&theme=default) |
 
-| **Estatísticas de GitHub** | **Linguagens Mais Utilizadas** |
-|----------------------------|--------------------------------|
-| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=LeviLucena&show_icons=true&theme=default) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviLucena&layout=compact&hide=html,css&theme=default) |
+---
