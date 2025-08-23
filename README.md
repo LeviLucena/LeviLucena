@@ -42,6 +42,79 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 💬 Languages:
 <!--START_SECTION:SHOW_LANGUAGE-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 647.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 225 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 49 Public Repositories 
+ > 
+> 🔑 12 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1552 commits        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+🌆 Daytime                2390 commits        ██████████░░░░░░░░░░░░░░░   38.36 % 
+🌃 Evening                2175 commits        █████████░░░░░░░░░░░░░░░░   34.91 % 
+🌙 Night                  114 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1212 commits        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Tuesday                  354 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Wednesday                589 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Thursday                 599 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Friday                   1224 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Saturday                 1099 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Sunday                   1154 commits        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   18 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
+HTML                     17 repos            ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+PHP                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/08/2025 22:28:50 UTC
 <!--END_SECTION:SHOW_LANGUAGE-->
 
 
