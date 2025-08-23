@@ -40,4 +40,6 @@ With over a decade of experience in Administration and Technology, I specialize 
 |----------|------------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeviLucena&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviLucena&layout=compact&hide=html,css&theme=default) |
 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
