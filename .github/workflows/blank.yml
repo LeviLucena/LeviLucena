@@ -19,7 +19,6 @@ jobs:
           # Flags de exibição - ligando tudo
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
-          SHOW_EDITORS: "False"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_COMMIT: "True"
