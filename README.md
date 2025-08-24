@@ -52,7 +52,7 @@ With over a decade of experience in Administration and Technology, I specialize 
  > 
 > 🏆 225 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> ✅ Open to Job Opportunities
  > 
 > 📜 49 Public Repositories 
  > 
