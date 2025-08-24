@@ -40,83 +40,8 @@ With over a decade of experience in Administration and Technology, I specialize 
 |----------|------------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeviLucena&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviLucena&layout=compact&hide=html,css&theme=default) |
 
-💬 Languages:
+
 <!--START_SECTION:SHOW_LANGUAGE-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 647.3 kB Used in GitHub's Storage 
- > 
-> 🏆 243 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 49 Public Repositories 
- > 
-> 🔑 12 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1594 commits        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-🌆 Daytime                2458 commits        ██████████░░░░░░░░░░░░░░░   38.13 % 
-🌃 Evening                2281 commits        █████████░░░░░░░░░░░░░░░░   35.38 % 
-🌙 Night                  114 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   1246 commits        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Tuesday                  366 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Wednesday                605 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Thursday                 599 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Friday                   1258 commits        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Saturday                 1181 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Sunday                   1192 commits        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Markdown                 1 min               █████████████████░░░░░░░░   68.54 % 
-Python                   0 secs              ████████░░░░░░░░░░░░░░░░░   31.46 % 
-
-🔥 Editors: 
-Cursor                   2 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-LeviLucena               1 min               █████████████████░░░░░░░░   68.54 % 
-volunteer_attendance     0 secs              ████████░░░░░░░░░░░░░░░░░   31.46 % 
-
-💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   18 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
-HTML                     17 repos            ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-PHP                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
-
-
- Last Updated on 24/08/2025 07:44:09 UTC
 <!--END_SECTION:SHOW_LANGUAGE-->
 
 
