@@ -44,7 +44,7 @@ With over a decade of experience in Administration and Technology, I specialize 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-254-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-278-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.7%20million%20lines%20of%20code-blue)
 
@@ -52,7 +52,7 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 > 📦 647.3 kB Used in GitHub's Storage 
  > 
-> 🏆 243 Contributions in the Year 2025
+> 🏆 271 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -63,21 +63,21 @@ With over a decade of experience in Administration and Technology, I specialize 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1967 commits        ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-🌆 Daytime                3044 commits        █████████░░░░░░░░░░░░░░░░   36.14 % 
-🌃 Evening                3134 commits        █████████░░░░░░░░░░░░░░░░   37.21 % 
+🌞 Morning                1969 commits        ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+🌆 Daytime                3044 commits        █████████░░░░░░░░░░░░░░░░   36.13 % 
+🌃 Evening                3136 commits        █████████░░░░░░░░░░░░░░░░   37.22 % 
 🌙 Night                  277 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1541 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Monday                   1541 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
 Tuesday                  474 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Wednesday                750 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Wednesday                750 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 Thursday                 611 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 Friday                   1534 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Saturday                 1833 commits        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Sunday                   1679 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Saturday                 1833 commits        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Sunday                   1683 commits        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
 ```
 
 
@@ -89,9 +89,6 @@ Sunday                   1679 commits        █████░░░░░░�
 💬 Programming Languages: 
 Markdown                 1 min               █████████████████░░░░░░░░   68.54 % 
 Python                   0 secs              ████████░░░░░░░░░░░░░░░░░   31.46 % 
-
-🔥 Editors: 
-Cursor                   2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
 LeviLucena               1 min               █████████████████░░░░░░░░   68.54 % 
@@ -118,7 +115,7 @@ JavaScript               5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2025 11:29:45 UTC
+ Last Updated on 24/08/2025 22:03:36 UTC
 <!--END_SECTION:waka-->
 
 
