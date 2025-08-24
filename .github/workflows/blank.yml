@@ -33,7 +33,7 @@ jobs:
 
           # Extras
           SECTION_NAME: waka
-          LOCALE: "pt"   # exibe em português
+          LOCALE: "en" 
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "📊 Atualizado com métricas do WakaTime"
           COMMIT_USERNAME: "readme-bot"
