@@ -42,9 +42,9 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.9%20million%20lines%20of%20code-blue)
 
@@ -52,11 +52,11 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 292 Contributions in the Year 2025
+> 🏆 293 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 49 Public Repositories 
+> 📜 50 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
@@ -104,11 +104,11 @@ Windows                  32 mins             ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-HTML                     17 repos            ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   20 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
+HTML                     17 repos            ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
@@ -118,7 +118,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 02:01:45 UTC
+ Last Updated on 09/09/2025 01:58:14 UTC
 <!--END_SECTION:waka-->
 
 
