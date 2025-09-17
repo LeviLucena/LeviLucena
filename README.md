@@ -42,8 +42,6 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.9%20million%20lines%20of%20code-blue)
@@ -52,7 +50,7 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 293 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -60,50 +58,6 @@ With over a decade of experience in Administration and Technology, I specialize 
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2021 commits        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-🌆 Daytime                3124 commits        █████████░░░░░░░░░░░░░░░░   35.91 % 
-🌃 Evening                3243 commits        █████████░░░░░░░░░░░░░░░░   37.28 % 
-🌙 Night                  311 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   1577 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Tuesday                  486 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Wednesday                769 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Thursday                 619 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Friday                   1570 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Saturday                 1920 commits        ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Sunday                   1758 commits        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Markdown                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Python                   44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-CSS                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-CSV                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-
-🐱‍💻 Projects: 
-axisus-mes-1             1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   33.61 % 
-VibraSense AI            1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-frontend                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-project axisus copy      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-axisus-mes - Copia       24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-
-💻 Operating System: 
-Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -121,7 +75,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 01:54:44 UTC
+ Last Updated on 17/09/2025 01:54:15 UTC
 <!--END_SECTION:waka-->
 
 
