@@ -46,6 +46,8 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2050%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.6%20million%20lines%20of%20code-blue)
@@ -54,7 +56,7 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 433 Contributions in the Year 2025
+> 🏆 440 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -62,6 +64,44 @@ With over a decade of experience in Administration and Technology, I specialize 
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2079 commits        ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+🌆 Daytime                3471 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
+🌃 Evening                3366 commits        █████████░░░░░░░░░░░░░░░░   36.48 % 
+🌙 Night                  311 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1608 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Tuesday                  538 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Wednesday                846 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Thursday                 794 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Friday                   1637 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Saturday                 1951 commits        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Sunday                   1853 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Text                     1 hr 43 mins        ██████████████████████░░░   88.93 % 
+HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+
+🐱‍💻 Projects: 
+axisus-mes               1 hr 20 mins        █████████████████░░░░░░░░   68.96 % 
+NewPortfolio             36 mins             ████████░░░░░░░░░░░░░░░░░   31.04 % 
+
+💻 Operating System: 
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -79,7 +119,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 01:54:36 UTC
+ Last Updated on 04/10/2025 01:50:25 UTC
 <!--END_SECTION:waka-->
 
 
