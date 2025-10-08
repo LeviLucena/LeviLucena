@@ -46,9 +46,9 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.6%20million%20lines%20of%20code-blue)
 
@@ -91,13 +91,17 @@ Sunday                   1861 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      46 mins             ███████████████░░░░░░░░░░   61.62 % 
+Markdown                 28 mins             █████████░░░░░░░░░░░░░░░░   37.38 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+anexo-insight-system     1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +121,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2025 01:55:37 UTC
+ Last Updated on 08/10/2025 01:55:34 UTC
 <!--END_SECTION:waka-->
 
 
