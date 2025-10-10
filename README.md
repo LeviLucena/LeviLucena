@@ -5,8 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-007bff?style=flat-square&logo=Portfolio&logoColor=white)](https://levilucena.github.io/portfolio/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/levilucena)
 [![Credly](https://img.shields.io/badge/Credly_Badges-28a745?style=flat-square&logo=badge&logoColor=white)](https://www.credly.com/users/levi-gustavo-oliveira-lucena)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/levi.lucena/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/Sr.Lucena)
 [![JustClock](https://img.shields.io/badge/JustClock-FF5733?style=flat-square)](https://www.justclock.store/)
 [![EbookPlay](https://img.shields.io/badge/EbookPlay-33C1FF?style=flat-square)](https://ebookplay.kpages.online/shop)
 
