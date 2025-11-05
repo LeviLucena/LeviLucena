@@ -44,6 +44,8 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2024%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.3%20million%20lines%20of%20code-blue)
@@ -56,9 +58,9 @@ With over a decade of experience in Administration and Technology, I specialize 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 54 Public Repositories 
+> 📜 53 Public Repositories 
  > 
-> 🔑 24 Private Repositories 
+> 🔑 25 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -87,21 +89,21 @@ Sunday                   1866 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               19 hrs 6 mins       █████████████████░░░░░░░░   69.21 % 
-Markdown                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Python                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TypeScript               20 hrs 53 mins      ███████████████████░░░░░░   75.03 % 
+Markdown                 1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Python                   1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🐱‍💻 Projects: 
-Licita                   12 hrs 40 mins      ███████████░░░░░░░░░░░░░░   45.90 % 
-tender-talisman - Salux v7 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-tender-talisman - Salux v2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-tender-talisman          2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Treino IA                1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Licita                   15 hrs 53 mins      ██████████████░░░░░░░░░░░   57.06 % 
+tender-talisman - Salux v7 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+tender-talisman - Salux v2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Treino IA                1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+tender-talisman          31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-Windows                  27 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +123,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2025 02:04:04 UTC
+ Last Updated on 05/11/2025 02:05:46 UTC
 <!--END_SECTION:waka-->
 
 
