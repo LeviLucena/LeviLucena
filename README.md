@@ -44,7 +44,7 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -123,7 +123,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2025 02:10:42 UTC
+ Last Updated on 11/11/2025 02:06:19 UTC
 <!--END_SECTION:waka-->
 
 
