@@ -44,6 +44,8 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2047%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.3%20million%20lines%20of%20code-blue)
@@ -87,17 +89,17 @@ Sunday                   1866 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               14 hrs 44 mins      ██████████████████░░░░░░░   72.80 % 
-Markdown                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-TOML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Graphviz (DOT)           43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Nginx configuration file 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+TypeScript               12 hrs 28 mins      ████████████████████░░░░░   79.19 % 
+Markdown                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Nginx configuration file 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+TOML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🐱‍💻 Projects: 
-Licita                   20 hrs 15 mins      █████████████████████████   100.00 % 
+Licita                   15 hrs 45 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +119,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 02:11:53 UTC
+ Last Updated on 17/11/2025 02:07:33 UTC
 <!--END_SECTION:waka-->
 
 
