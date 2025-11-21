@@ -44,9 +44,9 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.3%20million%20lines%20of%20code-blue)
 
@@ -89,18 +89,18 @@ Sunday                   1866 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               10 hrs 12 mins      ██████████████████░░░░░░░   73.80 % 
-Markdown                 1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Nginx configuration file 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-TOML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+TypeScript               8 hrs 36 mins       ████████████████████░░░░░   78.44 % 
+Markdown                 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+TOML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Docker                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🐱‍💻 Projects: 
-Licita                   13 hrs 50 mins      █████████████████████████   99.96 % 
-tender-talisman          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Licita                   10 hrs 58 mins      █████████████████████████   99.95 % 
+tender-talisman          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  13 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +120,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2025 02:05:15 UTC
+ Last Updated on 21/11/2025 02:04:39 UTC
 <!--END_SECTION:waka-->
 
 
