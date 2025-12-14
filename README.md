@@ -44,7 +44,7 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -89,19 +89,19 @@ Sunday                   1866 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 14 mins       ███████████████░░░░░░░░░░   58.36 % 
-Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+TypeScript               3 hrs 14 mins       ███████████████░░░░░░░░░░   58.37 % 
+Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 Python                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 JavaScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 Docker                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 🐱‍💻 Projects: 
 Licita                   4 hrs 45 mins       █████████████████████░░░░   85.61 % 
-Treino IA                25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Treino IA                25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 genesis-ai-hub           22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 
 💻 Operating System: 
-Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +121,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2025 02:06:22 UTC
+ Last Updated on 14/12/2025 02:25:34 UTC
 <!--END_SECTION:waka-->
 
 
