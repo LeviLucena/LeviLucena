@@ -44,7 +44,7 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,7 +54,7 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 515 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -89,18 +89,18 @@ Sunday                   1866 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 48 mins             ███████████░░░░░░░░░░░░░░   44.10 % 
-Python                   46 mins             ███████████░░░░░░░░░░░░░░   42.55 % 
-Docker                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Markdown                 48 mins             █████████████░░░░░░░░░░░░   51.89 % 
+Python                   30 mins             ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Docker                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-Licita                   1 hr 41 mins        ███████████████████████░░   92.34 % 
-Treino IA                8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Licita                   1 hr 25 mins        ███████████████████████░░   90.99 % 
+Treino IA                8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 
 💻 Operating System: 
-Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +120,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 02:15:00 UTC
+ Last Updated on 01/01/2026 02:32:34 UTC
 <!--END_SECTION:waka-->
 
 
