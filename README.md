@@ -44,9 +44,11 @@ With over a decade of experience in Administration and Technology, I specialize 
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.71%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.71%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -60,6 +62,47 @@ With over a decade of experience in Administration and Technology, I specialize 
  > 
 > 🔑 27 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2121 commits        ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+🌆 Daytime                3524 commits        █████████░░░░░░░░░░░░░░░░   37.64 % 
+🌃 Evening                3406 commits        █████████░░░░░░░░░░░░░░░░   36.38 % 
+🌙 Night                  312 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1631 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Tuesday                  568 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Wednesday                875 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Thursday                 827 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Friday                   1639 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Saturday                 1957 commits        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Sunday                   1866 commits        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Markdown                 48 mins             █████████████░░░░░░░░░░░░   51.89 % 
+Python                   30 mins             ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Docker                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
+🐱‍💻 Projects: 
+Licita                   1 hr 25 mins        ███████████████████████░░   90.99 % 
+Treino IA                8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+
+💻 Operating System: 
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -77,7 +120,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 02:33:37 UTC
+ Last Updated on 06/01/2026 02:22:26 UTC
 <!--END_SECTION:waka-->
 
 
