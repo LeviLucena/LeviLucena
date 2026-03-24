@@ -14,7 +14,7 @@
 
 With over a decade of experience in Administration and Technology, I specialize in designing and building scalable, data-driven applications, APIs, and intelligent systems using AI, LLMs, automation, and cloud infrastructure. I’m passionate about solving real-world problems through clean architecture, high-performance systems, and intuitive user experiences. I work across the full stack and bring business thinking to every technical decision.  
 
-☕ If you like what I do and want to support my work [![](https://img.shields.io/badge/☕_Buy_me_a_coffee-Donate-blue?logo=coffee&logoColor=FFFFFF)](https://www.paypal.com/donate/?hosted_button_id=58DYCL22CTERG)
+If you support my projects, how about buying me a coffee [![](https://img.shields.io/badge/☕_Buy_me_a_coffee-Donate-blue?logo=coffee&logoColor=FFFFFF)](https://www.paypal.com/donate/?hosted_button_id=58DYCL22CTERG)
 
 ---
 
