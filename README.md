@@ -53,13 +53,13 @@ If you support my projects, how about buying me a coffee [![](https://img.shield
 
 > 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 158 Contributions in the Year 2026
+> 🏆 172 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 57 Public Repositories 
  > 
-> 🔑 33 Private Repositories 
+> 🔑 34 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -108,11 +108,11 @@ Windows                  9 hrs 19 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               28 repos            ████████░░░░░░░░░░░░░░░░░   31.46 % 
-Python                   23 repos            ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-COBOL                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript               29 repos            ████████░░░░░░░░░░░░░░░░░   32.22 % 
+Python                   23 repos            ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+COBOL                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 
 
@@ -122,7 +122,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2026 03:51:22 UTC
+ Last Updated on 28/04/2026 03:56:26 UTC
 <!--END_SECTION:waka-->
 
 
