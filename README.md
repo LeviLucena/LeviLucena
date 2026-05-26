@@ -12,7 +12,10 @@
 
 ### 🚀 About Me
 
-With over a decade of experience in Administration and Technology, I specialize in designing and building scalable, data-driven applications, APIs, and intelligent systems using AI, LLMs, automation, and cloud infrastructure. I’m passionate about solving real-world problems through clean architecture, high-performance systems, and intuitive user experiences. I work across the full stack and bring business thinking to every technical decision.  
+Software Engineer and AI Solutions Engineer specializing in Generative AI, LLMs, RAG systems, intelligent automation, and scalable backend architectures. Experienced in building AI-driven applications, multi-agent workflows, APIs, and data-intensive systems using Python, FastAPI, LangChain/LangGraph, vector databases, and cloud technologies.
+
+Strong background in developing solutions for healthcare, legal, government, and enterprise environments, combining technical depth with product and business-oriented thinking. Passionate about transforming complex problems into practical, scalable, and high-impact AI solutions through clean architecture, automation, and modern engineering practices.
+
 
 Enjoying this project? Buy me a coffee ☕  
 
