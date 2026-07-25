@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.22%20million%20lines%20of%20code-blue?style=flat)
 
@@ -63,50 +63,6 @@ Enjoying this project? Buy me a coffee ☕
  > 
 > 🔑 47 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2231 commits        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-🌆 Daytime                3663 commits        █████████░░░░░░░░░░░░░░░░   37.81 % 
-🌃 Evening                3483 commits        █████████░░░░░░░░░░░░░░░░   35.95 % 
-🌙 Night                  312 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   1681 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Tuesday                  617 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Wednesday                918 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Thursday                 931 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Friday                   1669 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Saturday                 1993 commits        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Sunday                   1880 commits        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-Other                    1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Bash                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-JavaScript               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-
-🐱‍💻 Projects: 
-initia-agendamento       3 hrs 56 mins       ██████████████░░░░░░░░░░░   56.47 % 
-Licita                   1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-portfolio                1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Delphos Insights Hub     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-tender-talisman          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-
-💻 Operating System: 
-Windows                  6 hrs 59 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -124,7 +80,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 03:30:59 UTC
+ Last Updated on 25/07/2026 03:29:25 UTC
 <!--END_SECTION:waka-->
 
 
