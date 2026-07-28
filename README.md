@@ -47,7 +47,9 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2044%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -68,19 +70,19 @@ Enjoying this project? Buy me a coffee ☕
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2235 commits        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+🌞 Morning                2236 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
 🌆 Daytime                3665 commits        █████████░░░░░░░░░░░░░░░░   37.80 % 
-🌃 Evening                3483 commits        █████████░░░░░░░░░░░░░░░░   35.93 % 
+🌃 Evening                3483 commits        █████████░░░░░░░░░░░░░░░░   35.92 % 
 🌙 Night                  312 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1681 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Monday                   1682 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
 Tuesday                  617 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 Wednesday                918 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 Thursday                 931 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Friday                   1669 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Friday                   1669 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
 Saturday                 1995 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
 Sunday                   1884 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 ```
@@ -92,22 +94,23 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               13 hrs 55 mins      ███████████████░░░░░░░░░░   60.95 % 
-Markdown                 3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-JavaScript               1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-HTML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+TypeScript               17 hrs 38 mins      ███████████████░░░░░░░░░░   61.61 % 
+Markdown                 5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+JavaScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🐱‍💻 Projects: 
-initia-agenda v3         13 hrs 7 mins       ██████████████░░░░░░░░░░░   57.43 % 
-frontend                 3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-initia-agenda-v3         2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-initia-agendamento       1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-prototipo-html           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+initia-agenda v3         18 hrs 52 mins      ████████████████░░░░░░░░░   65.90 % 
+frontend                 3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+initia-agenda-v3         2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+initia-agendamento       1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+prototipo-html           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 💻 Operating System: 
-Windows                  22 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 38 mins      █████████████████████████   100.00 % 
 ```
+
 
 **I Mostly Code in TypeScript** 
 
@@ -126,8 +129,9 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 03:51:55 UTC
+ Last Updated on 28/07/2026 03:22:26 UTC
 <!--END_SECTION:waka-->
 
 
 ---
+
