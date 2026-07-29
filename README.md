@@ -47,10 +47,6 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%2044%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%2045%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.28%20million%20lines%20of%20code-blue?style=flat)
@@ -94,23 +90,22 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               17 hrs 38 mins      ███████████████░░░░░░░░░░   61.61 % 
-Markdown                 5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-JavaScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+TypeScript               19 hrs 20 mins      ████████████████░░░░░░░░░   63.88 % 
+Markdown                 5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+JavaScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+HTML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+CSS                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🐱‍💻 Projects: 
-initia-agenda v3         18 hrs 52 mins      ████████████████░░░░░░░░░   65.90 % 
-frontend                 3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-initia-agenda-v3         2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-initia-agendamento       1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-prototipo-html           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+initia-agenda v3         21 hrs 23 mins      ██████████████████░░░░░░░   70.69 % 
+frontend                 3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+initia-agenda-v3         2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+prototipo-html           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+portfolio                31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Windows                  28 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 16 mins      █████████████████████████   100.00 % 
 ```
-
 
 **I Mostly Code in TypeScript** 
 
@@ -129,7 +124,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 03:22:26 UTC
+ Last Updated on 29/07/2026 03:24:30 UTC
 <!--END_SECTION:waka-->
 
 
