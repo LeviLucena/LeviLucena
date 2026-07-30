@@ -47,6 +47,10 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2025%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-229%20hrs%2029%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.28%20million%20lines%20of%20code-blue?style=flat)
@@ -55,7 +59,7 @@ Enjoying this project? Buy me a coffee ☕
 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
-> 🏆 396 Contributions in the Year 2026
+> 🏆 397 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -66,7 +70,7 @@ Enjoying this project? Buy me a coffee ☕
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2236 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+🌞 Morning                2237 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
 🌆 Daytime                3665 commits        █████████░░░░░░░░░░░░░░░░   37.80 % 
 🌃 Evening                3483 commits        █████████░░░░░░░░░░░░░░░░   35.92 % 
 🌙 Night                  312 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
@@ -76,10 +80,10 @@ Enjoying this project? Buy me a coffee ☕
 ```text
 Monday                   1682 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
 Tuesday                  617 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Wednesday                918 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Wednesday                919 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 Thursday                 931 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 Friday                   1669 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Saturday                 1995 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Saturday                 1995 commits        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
 Sunday                   1884 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 ```
 
@@ -90,21 +94,21 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               19 hrs 20 mins      ████████████████░░░░░░░░░   63.88 % 
-Markdown                 5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-JavaScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-HTML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-CSS                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+TypeScript               21 hrs 50 mins      ████████████████░░░░░░░░░   63.06 % 
+Markdown                 5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+JavaScript               1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Text                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🐱‍💻 Projects: 
-initia-agenda v3         21 hrs 23 mins      ██████████████████░░░░░░░   70.69 % 
-frontend                 3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-initia-agenda-v3         2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-prototipo-html           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-portfolio                31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+initia-agenda v3         25 hrs 29 mins      ██████████████████░░░░░░░   73.60 % 
+frontend                 3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+initia-agenda-v3         2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+prototipo-html           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+salux-face-service       33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 💻 Operating System: 
-Windows                  30 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +128,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 03:24:30 UTC
+ Last Updated on 30/07/2026 02:58:00 UTC
 <!--END_SECTION:waka-->
 
 
