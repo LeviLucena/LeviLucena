@@ -59,7 +59,7 @@ Enjoying this project? Buy me a coffee ☕
 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
-> 🏆 397 Contributions in the Year 2026
+> 🏆 400 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,21 +70,21 @@ Enjoying this project? Buy me a coffee ☕
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2237 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-🌆 Daytime                3665 commits        █████████░░░░░░░░░░░░░░░░   37.80 % 
-🌃 Evening                3483 commits        █████████░░░░░░░░░░░░░░░░   35.92 % 
+🌞 Morning                2237 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+🌆 Daytime                3667 commits        █████████░░░░░░░░░░░░░░░░   37.81 % 
+🌃 Evening                3483 commits        █████████░░░░░░░░░░░░░░░░   35.91 % 
 🌙 Night                  312 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1682 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Monday                   1682 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
 Tuesday                  617 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 Wednesday                919 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Thursday                 931 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Thursday                 933 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 Friday                   1669 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
 Saturday                 1995 commits        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Sunday                   1884 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Sunday                   1884 commits        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
 ```
 
 
@@ -94,21 +94,46 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               21 hrs 50 mins      ████████████████░░░░░░░░░   63.06 % 
-Markdown                 5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-JavaScript               1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Text                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+TypeScript               21 hrs 50 mins      ████████████████░░░░░░░░░   64.12 % 
+Markdown                 5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Text                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🐱‍💻 Projects: 
-initia-agenda v3         25 hrs 29 mins      ██████████████████░░░░░░░   73.60 % 
-frontend                 3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-initia-agenda-v3         2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-prototipo-html           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-salux-face-service       33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+initia-agenda v3         25 hrs 29 mins      ███████████████████░░░░░░   74.82 % 
+frontend                 3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+initia-agenda-v3         2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+prototipo-html           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+salux-face-service       33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Windows                  34 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 3 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 33 hrs 24 mins (98.07%)
+
+✍️ 18,792 lines written by AI, 1 lines written by hand (99.99% AI-written)
+
+🔤 1,518,361,769 Input Tokens, 1,716,808 Output Tokens
+
+💵 $4591.75 Estimated AI Cost This Week
+
+🧠 32 AI Sessions, 269 AI Prompts
+
+Sonnet                   15,106 lines        ███████████████████░░░░░░   75.09 % 
+Opencode-Cli             3,282 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Fable                    1,730 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📝 Concise Prompter — average 418 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -128,7 +153,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 02:58:00 UTC
+ Last Updated on 31/07/2026 03:41:47 UTC
 <!--END_SECTION:waka-->
 
 
