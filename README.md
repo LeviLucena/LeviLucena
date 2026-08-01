@@ -111,31 +111,6 @@ prototipo-html           30 mins             ░░░░░░░░░░░�
 Windows                  32 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 31 hrs 44 mins (97.76%)
-
-✍️ 14,197 lines written by AI, 2 lines written by hand (99.99% AI-written)
-
-🔤 1,461,482,818 Input Tokens, 1,656,614 Output Tokens
-
-💵 $4409.30 Estimated AI Cost This Week
-
-🧠 27 AI Sessions, 349 AI Prompts
-
-Sonnet                   13,624 lines        ██████████████████████░░░   88.92 % 
-Fable                    1,669 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Opencode-Cli             28 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 750 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
