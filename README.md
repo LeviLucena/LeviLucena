@@ -47,11 +47,11 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-229%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-232%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.28%20million%20lines%20of%20code-blue?style=flat)
 
@@ -94,46 +94,46 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               21 hrs 50 mins      ████████████████░░░░░░░░░   64.12 % 
-Markdown                 5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Text                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+TypeScript               20 hrs 34 mins      ████████████████░░░░░░░░░   63.40 % 
+Markdown                 5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Text                     2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🐱‍💻 Projects: 
-initia-agenda v3         25 hrs 29 mins      ███████████████████░░░░░░   74.82 % 
-frontend                 3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-initia-agenda-v3         2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-prototipo-html           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-salux-face-service       33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+initia-agenda v3         28 hrs 1 min        ██████████████████████░░░   86.35 % 
+frontend                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+initia-agenda-v3         36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+salux-face-service       33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+prototipo-html           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Windows                  34 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  32 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 24 mins (98.07%)
+⏱ AI Coding Time: 31 hrs 44 mins (97.76%)
 
-✍️ 18,792 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 14,197 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 1,518,361,769 Input Tokens, 1,716,808 Output Tokens
+🔤 1,461,482,818 Input Tokens, 1,656,614 Output Tokens
 
-💵 $4591.75 Estimated AI Cost This Week
+💵 $4409.30 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 269 AI Prompts
+🧠 27 AI Sessions, 349 AI Prompts
 
-Sonnet                   15,106 lines        ███████████████████░░░░░░   75.09 % 
-Opencode-Cli             3,282 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Fable                    1,730 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Sonnet                   13,624 lines        ██████████████████████░░░   88.92 % 
+Fable                    1,669 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Opencode-Cli             28 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 418 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+📄 Detailed Prompter — average 750 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -153,7 +153,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 03:41:47 UTC
+ Last Updated on 01/08/2026 03:39:35 UTC
 <!--END_SECTION:waka-->
 
 
