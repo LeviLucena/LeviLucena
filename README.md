@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue?style=flat)
 
@@ -92,21 +92,21 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.03 % 
-Other                    4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-Markdown                 2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-HTML                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+TypeScript               6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Other                    4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Markdown                 2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+HTML                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🐱‍💻 Projects: 
-Pixel Perfect UI         7 hrs 58 mins       ███████████░░░░░░░░░░░░░░   43.12 % 
-Orchestrate AI           5 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.67 % 
-initia-agenda v3         1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-salux-face-service       1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-observer-sessions        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Pixel Perfect UI         7 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.28 % 
+Orchestrate AI           5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+initia-agenda v3         1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+portfolio                1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+salux-face-service       1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 
 💻 Operating System: 
-Windows                  18 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 02:17:00 UTC
+ Last Updated on 10/08/2026 02:25:47 UTC
 <!--END_SECTION:waka-->
 
 
