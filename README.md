@@ -92,21 +92,21 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 5 hrs 23 mins       ███████████░░░░░░░░░░░░░░   42.10 % 
-TypeScript               1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Other                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Text                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Markdown                 5 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.21 % 
+TypeScript               3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Other                    1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Text                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🐱‍💻 Projects: 
-observer-sessions        4 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   39.04 % 
-initia-agenda v3         2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Initia                   1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Tech Challenge Solver    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-mcp-agenda-fake          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+observer-sessions        5 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.86 % 
+initia-agenda v3         2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Pixel Perfect UI         2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Initia                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Tech Challenge Solver    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 💻 Operating System: 
-Windows                  12 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 01:44:37 UTC
+ Last Updated on 19/08/2026 01:45:32 UTC
 <!--END_SECTION:waka-->
 
 
