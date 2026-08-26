@@ -92,20 +92,19 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               22 hrs 34 mins      ██████████████████░░░░░░░   72.36 % 
-Other                    2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Text                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+TypeScript               26 hrs 42 mins      ██████████████████░░░░░░░   72.15 % 
+Text                     4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Other                    2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+JavaScript               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🐱‍💻 Projects: 
-Pixel Perfect UI         21 hrs 39 mins      █████████████████░░░░░░░░   69.40 % 
-initia-agenda v3         7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-observer-sessions        2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Initia                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Pixel Perfect UI         27 hrs 19 mins      ██████████████████░░░░░░░   73.83 % 
+initia-agenda v3         7 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+observer-sessions        2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 💻 Operating System: 
-Windows                  31 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  37 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +124,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 01:45:02 UTC
+ Last Updated on 26/08/2026 01:51:28 UTC
 <!--END_SECTION:waka-->
 
 
