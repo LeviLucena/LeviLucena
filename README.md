@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -92,19 +92,19 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               26 hrs 42 mins      ██████████████████░░░░░░░   72.15 % 
-Text                     4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Other                    2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-JavaScript               32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+TypeScript               13 hrs 18 mins      ████████████████░░░░░░░░░   63.60 % 
+Text                     3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Markdown                 2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🐱‍💻 Projects: 
-Pixel Perfect UI         27 hrs 19 mins      ██████████████████░░░░░░░   73.83 % 
-initia-agenda v3         7 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-observer-sessions        2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Pixel Perfect UI         12 hrs 34 mins      ███████████████░░░░░░░░░░   60.07 % 
+initia-agenda v3         6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.73 % 
+observer-sessions        1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 
 💻 Operating System: 
-Windows                  37 hrs              █████████████████████████   100.00 % 
+Windows                  20 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +124,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 01:51:28 UTC
+ Last Updated on 27/08/2026 08:55:21 UTC
 <!--END_SECTION:waka-->
 
 
