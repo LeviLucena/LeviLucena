@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-588%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -92,21 +92,21 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               8 hrs 18 mins       █████████████░░░░░░░░░░░░   53.13 % 
-Text                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Markdown                 2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+TypeScript               8 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.32 % 
+Markdown                 3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Text                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Other                    1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🐱‍💻 Projects: 
-Pixel Perfect UI         8 hrs 37 mins       ██████████████░░░░░░░░░░░   55.17 % 
-initia-agenda v3         3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-observer-sessions        1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-namastex-fde-challenge   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-frani                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Pixel Perfect UI         8 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.75 % 
+namastex-fde-challenge   3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+initia-agenda v3         3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+observer-sessions        1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+frani                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
-Windows                  15 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 05:04:59 UTC
+ Last Updated on 31/08/2026 05:11:39 UTC
 <!--END_SECTION:waka-->
 
 
