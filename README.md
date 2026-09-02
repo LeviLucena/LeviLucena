@@ -92,21 +92,21 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               8 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.32 % 
-Markdown                 3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Text                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Other                    1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Python                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Markdown                 3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.12 % 
+TypeScript               2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+Other                    1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Python                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🐱‍💻 Projects: 
-Pixel Perfect UI         8 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.75 % 
-namastex-fde-challenge   3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-initia-agenda v3         3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-observer-sessions        1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-frani                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+namastex-fde-challenge   3 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.17 % 
+initia-agenda v3         3 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   37.39 % 
+observer-sessions        1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Pixel Perfect UI         32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+frani                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 💻 Operating System: 
-Windows                  18 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 04:48:47 UTC
+ Last Updated on 02/09/2026 04:11:05 UTC
 <!--END_SECTION:waka-->
 
 
