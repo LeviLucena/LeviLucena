@@ -57,7 +57,7 @@ Enjoying this project? Buy me a coffee ☕
 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
-> 🏆 536 Contributions in the Year 2026
+> 🏆 538 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -92,21 +92,21 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-Other                    4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Markdown                 3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Python                   2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Bash                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+TypeScript               5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Other                    3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Markdown                 2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Python                   2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Bash                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 🐱‍💻 Projects: 
-Visual Appeal Boost (1)  7 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.60 % 
-observer-sessions        5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-namastex-fde-challenge   3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-salux-ai frontend-backend2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-portfolio                42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Visual Appeal Boost (1)  7 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.29 % 
+observer-sessions        5 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+namastex-fde-challenge   2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+salux-ai frontend-backend2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Visual Appeal Boost (1) -36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 💻 Operating System: 
-Windows                  22 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 04:08:28 UTC
+ Last Updated on 06/09/2026 04:16:06 UTC
 <!--END_SECTION:waka-->
 
 
