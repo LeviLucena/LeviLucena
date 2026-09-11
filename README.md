@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -57,7 +57,7 @@ Enjoying this project? Buy me a coffee ☕
 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
-> 🏆 538 Contributions in the Year 2026
+> 🏆 554 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -92,21 +92,20 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-Other                    4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Markdown                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Python                   1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Bash                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Other                    3 hrs 49 mins       ████████████░░░░░░░░░░░░░   47.07 % 
+TypeScript               1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🐱‍💻 Projects: 
-Visual Appeal Boost (1)  7 hrs 48 mins       ███████████░░░░░░░░░░░░░░   42.16 % 
-observer-sessions        5 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.39 % 
-salux-ai frontend-backend2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Visual Appeal Boost (1) -1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-portfolio                36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+observer-sessions        3 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.94 % 
+Visual Appeal Boost (1)  3 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.16 % 
+Visual Appeal Boost (1) -1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+portfolio                36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 💻 Operating System: 
-Windows                  18 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +125,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 04:22:46 UTC
+ Last Updated on 11/09/2026 04:18:56 UTC
 <!--END_SECTION:waka-->
 
 
