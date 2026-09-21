@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -92,15 +92,15 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               25 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   41.30 % 
-Other                    21 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Markdown                 8 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-JavaScript               3 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Bash                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+TypeScript               26 hrs 1 min        ██████████░░░░░░░░░░░░░░░   41.39 % 
+Other                    21 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   34.60 % 
+Markdown                 8 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+JavaScript               3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Bash                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🐱‍💻 Projects: 
-visual-appeal-boost      33 hrs 16 mins      █████████████░░░░░░░░░░░░   52.91 % 
-observer-sessions        20 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   32.46 % 
+visual-appeal-boost      32 hrs 23 mins      █████████████░░░░░░░░░░░░   51.51 % 
+observer-sessions        21 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   33.86 % 
 painel-clinico           3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 salux-painel-clinico-clon2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 Salux CRM                1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
@@ -126,7 +126,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 04:39:23 UTC
+ Last Updated on 21/09/2026 04:37:57 UTC
 <!--END_SECTION:waka-->
 
 
