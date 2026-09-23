@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-671%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,21 +92,21 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               23 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   39.02 % 
-Other                    21 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   36.57 % 
-Markdown                 8 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-JavaScript               2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Bash                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Other                    19 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   38.81 % 
+TypeScript               17 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   34.36 % 
+Markdown                 9 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+JavaScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Bash                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🐱‍💻 Projects: 
-visual-appeal-boost      28 hrs 48 mins      ████████████░░░░░░░░░░░░░   48.77 % 
-observer-sessions        21 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   35.65 % 
-painel-clinico           3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-salux-painel-clinico-clon2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Salux CRM                1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+visual-appeal-boost      23 hrs 37 mins      ████████████░░░░░░░░░░░░░   46.71 % 
+observer-sessions        18 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   36.68 % 
+painel-clinico           3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+tender-talisman          1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Salux CRM                1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 💻 Operating System: 
-Windows                  59 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  50 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 04:32:59 UTC
+ Last Updated on 23/09/2026 04:30:17 UTC
 <!--END_SECTION:waka-->
 
 
