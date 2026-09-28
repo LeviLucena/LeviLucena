@@ -92,20 +92,20 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    7 hrs 46 mins       ████████████░░░░░░░░░░░░░   47.87 % 
-TypeScript               4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-Markdown                 2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-SQL                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Other                    6 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.15 % 
+TypeScript               3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+Markdown                 2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+SQL                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🐱‍💻 Projects: 
-observer-sessions        7 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.06 % 
-visual-appeal-boost      7 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.02 % 
-tender-talisman          1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Licita                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+observer-sessions        5 hrs 41 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
+visual-appeal-boost      5 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
+tender-talisman          1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Licita                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Windows                  16 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +125,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 05:02:40 UTC
+ Last Updated on 28/09/2026 05:04:10 UTC
 <!--END_SECTION:waka-->
 
 
