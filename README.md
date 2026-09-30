@@ -49,7 +49,7 @@ Enjoying this project? Buy me a coffee ☕
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.39%20million%20lines%20of%20code-blue?style=flat)
 
@@ -61,9 +61,9 @@ Enjoying this project? Buy me a coffee ☕
  > 
 > 💼 Opted to Hire
  > 
-> 📜 62 Public Repositories 
+> 📜 61 Public Repositories 
  > 
-> 🔑 53 Private Repositories 
+> 🔑 54 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -92,20 +92,19 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    5 hrs 53 mins       ████████████░░░░░░░░░░░░░   46.37 % 
-TypeScript               3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-Markdown                 2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-SQL                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Other                    4 hrs 13 mins       ███████████████░░░░░░░░░░   61.60 % 
+TypeScript               1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+SQL                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-observer-sessions        5 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.91 % 
-visual-appeal-boost      5 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.85 % 
-tender-talisman          1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Licita                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+observer-sessions        3 hrs 54 mins       ██████████████░░░░░░░░░░░   56.89 % 
+visual-appeal-boost      2 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.08 % 
+tender-talisman          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  12 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +124,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 05:29:05 UTC
+ Last Updated on 30/09/2026 05:17:56 UTC
 <!--END_SECTION:waka-->
 
 
