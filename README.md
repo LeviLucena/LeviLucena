@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-677%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-677%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -92,20 +92,20 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    5 hrs 7 mins        █████████████░░░░░░░░░░░░   52.95 % 
-TypeScript               2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-JavaScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Other                    6 hrs 3 mins        ███████████████░░░░░░░░░░   60.18 % 
+TypeScript               1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+JavaScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🐱‍💻 Projects: 
-observer-sessions        4 hrs 55 mins       █████████████░░░░░░░░░░░░   50.99 % 
-tender-talisman          2 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-visual-appeal-boost      1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-namastex-fde-challenge   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+observer-sessions        5 hrs 31 mins       ██████████████░░░░░░░░░░░   55.02 % 
+tender-talisman          2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+visual-appeal-boost      1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+namastex-fde-challenge   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  9 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +125,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 05:31:34 UTC
+ Last Updated on 02/10/2026 05:20:12 UTC
 <!--END_SECTION:waka-->
 
 
