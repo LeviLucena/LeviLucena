@@ -92,20 +92,20 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    8 hrs 54 mins       ██████████████░░░░░░░░░░░   57.84 % 
-TypeScript               2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Markdown                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Bash                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-JavaScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Other                    9 hrs 6 mins        ███████████████░░░░░░░░░░   58.39 % 
+TypeScript               2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Markdown                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Bash                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+JavaScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 🐱‍💻 Projects: 
-observer-sessions        7 hrs 35 mins       ████████████░░░░░░░░░░░░░   49.32 % 
-visual-appeal-boost      5 hrs               ████████░░░░░░░░░░░░░░░░░   32.50 % 
-tender-talisman          2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+observer-sessions        7 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.06 % 
+visual-appeal-boost      5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.00 % 
+tender-talisman          2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
 namastex-fde-challenge   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  15 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +125,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 05:34:44 UTC
+ Last Updated on 05/10/2026 05:18:29 UTC
 <!--END_SECTION:waka-->
 
 
