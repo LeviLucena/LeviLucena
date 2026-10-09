@@ -47,17 +47,15 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-686%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.9 MB Used in GitHub's Storage 
- > 
-> 🏆 575 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -92,19 +90,19 @@ Sunday                   1884 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    7 hrs 22 mins       ██████████████░░░░░░░░░░░   57.85 % 
-Markdown                 2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-TypeScript               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Git Config               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Other                    8 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.97 % 
+Markdown                 3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+TypeScript               2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+JavaScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 🐱‍💻 Projects: 
-visual-appeal-boost      6 hrs 39 mins       █████████████░░░░░░░░░░░░   52.25 % 
-observer-sessions        6 hrs 2 mins        ████████████░░░░░░░░░░░░░   47.40 % 
-tender-talisman          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+observer-sessions        7 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.77 % 
+visual-appeal-boost      6 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.34 % 
+tender-talisman          3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
 
 💻 Operating System: 
-Windows                  12 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +122,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 05:46:02 UTC
+ Last Updated on 09/10/2026 05:50:12 UTC
 <!--END_SECTION:waka-->
 
 
