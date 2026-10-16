@@ -47,42 +47,42 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.52%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.53%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 605 Contributions in the Year 2026
+> 🏆 625 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 61 Public Repositories 
+> 📜 62 Public Repositories 
  > 
 > 🔑 56 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2261 commits        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-🌆 Daytime                3694 commits        █████████░░░░░░░░░░░░░░░░   37.72 % 
-🌃 Evening                3527 commits        █████████░░░░░░░░░░░░░░░░   36.01 % 
-🌙 Night                  312 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+🌞 Morning                2270 commits        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+🌆 Daytime                3700 commits        █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌃 Evening                3532 commits        █████████░░░░░░░░░░░░░░░░   35.99 % 
+🌙 Night                  312 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1686 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Tuesday                  634 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Wednesday                950 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Thursday                 950 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Friday                   1676 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Saturday                 2013 commits        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Sunday                   1885 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Monday                   1686 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Tuesday                  634 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Wednesday                950 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Thursday                 970 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Friday                   1676 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Saturday                 2013 commits        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Sunday                   1885 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
 ```
 
 
@@ -92,31 +92,31 @@ Sunday                   1885 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    17 hrs 28 mins      ████████████░░░░░░░░░░░░░   47.11 % 
-Markdown                 5 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-TypeScript               4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-JavaScript               3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Text                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Other                    16 hrs              ████████████░░░░░░░░░░░░░   47.35 % 
+Markdown                 5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+TypeScript               4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+JavaScript               2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Python                   1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🐱‍💻 Projects: 
-observer-sessions        15 hrs 53 mins      ███████████░░░░░░░░░░░░░░   42.86 % 
-tender-talisman          12 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   33.00 % 
-licita-hub               3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-vision-demos             2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-painel-clinico           56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+observer-sessions        14 hrs 30 mins      ███████████░░░░░░░░░░░░░░   42.91 % 
+tender-talisman          9 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+licita-hub               4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+vision-demos             2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+painel-clinico           1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 💻 Operating System: 
-Windows                  37 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  33 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               41 repos            █████████░░░░░░░░░░░░░░░░   35.65 % 
-Python                   26 repos            ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-HTML                     24 repos            █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+TypeScript               41 repos            █████████░░░░░░░░░░░░░░░░   35.34 % 
+Python                   27 repos            ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+HTML                     24 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 ```
 
 
@@ -126,7 +126,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 04:19:46 UTC
+ Last Updated on 16/10/2026 04:15:38 UTC
 <!--END_SECTION:waka-->
 
 
