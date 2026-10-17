@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -92,21 +92,21 @@ Sunday                   1885 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    16 hrs              ████████████░░░░░░░░░░░░░   47.35 % 
-Markdown                 5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-TypeScript               4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-JavaScript               2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Python                   1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Other                    20 hrs 10 mins      ████████████░░░░░░░░░░░░░   47.42 % 
+Markdown                 6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+TypeScript               5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+JavaScript               3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Python                   2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🐱‍💻 Projects: 
-observer-sessions        14 hrs 30 mins      ███████████░░░░░░░░░░░░░░   42.91 % 
-tender-talisman          9 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-licita-hub               4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-vision-demos             2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-painel-clinico           1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+observer-sessions        19 hrs 2 mins       ███████████░░░░░░░░░░░░░░   44.75 % 
+licita-hub               8 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+tender-talisman          7 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+vision-demos             2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+painel-clinico           1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 💻 Operating System: 
-Windows                  33 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 04:15:38 UTC
+ Last Updated on 17/10/2026 04:05:50 UTC
 <!--END_SECTION:waka-->
 
 
