@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-717%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -92,21 +92,21 @@ Sunday                   1890 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    16 hrs 41 mins      █████████████░░░░░░░░░░░░   53.44 % 
-Markdown                 4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-TypeScript               3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Python                   2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-JavaScript               2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Other                    18 hrs 38 mins      █████████████░░░░░░░░░░░░   53.83 % 
+Markdown                 5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+TypeScript               3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Python                   2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+JavaScript               2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 🐱‍💻 Projects: 
-observer-sessions        15 hrs 36 mins      ████████████░░░░░░░░░░░░░   49.99 % 
-licita-hub               5 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-tender-talisman          2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-salux-ai frontend-backend2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-painel-clinico           1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+observer-sessions        17 hrs 58 mins      █████████████░░░░░░░░░░░░   51.92 % 
+licita-hub               9 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+salux-ai frontend-backend2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+tender-talisman          1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Desafio Técnico AI Engine46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Windows                  31 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 04:24:17 UTC
+ Last Updated on 21/10/2026 12:16:26 UTC
 <!--END_SECTION:waka-->
 
 
