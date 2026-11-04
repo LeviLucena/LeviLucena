@@ -47,6 +47,8 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-739%20hrs%2054%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.55%20million%20lines%20of%20code-blue?style=flat)
@@ -63,6 +65,50 @@ Enjoying this project? Buy me a coffee ☕
  > 
 > 🔑 56 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2293 commits        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+🌆 Daytime                3711 commits        █████████░░░░░░░░░░░░░░░░   37.65 % 
+🌃 Evening                3540 commits        █████████░░░░░░░░░░░░░░░░   35.91 % 
+🌙 Night                  313 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1687 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Tuesday                  645 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Wednesday                961 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Thursday                 978 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Friday                   1676 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Saturday                 2020 commits        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Sunday                   1890 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Other                    8 hrs 26 mins       ███████████████░░░░░░░░░░   61.33 % 
+Markdown                 2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Text                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Python                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+TypeScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+
+🐱‍💻 Projects: 
+observer-sessions        6 hrs 25 mins       ████████████░░░░░░░░░░░░░   46.74 % 
+salux-ai frontend-backend3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+licita-hub               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+baseline                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+yolo_smoke               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+
+💻 Operating System: 
+Windows                  13 hrs 45 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -80,7 +126,7 @@ PHP                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2026 06:21:46 UTC
+ Last Updated on 04/11/2026 05:57:59 UTC
 <!--END_SECTION:waka-->
 
 
