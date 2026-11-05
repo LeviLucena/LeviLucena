@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-739%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -92,21 +92,21 @@ Sunday                   1890 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    8 hrs 26 mins       ███████████████░░░░░░░░░░   61.33 % 
-Markdown                 2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Text                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Python                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-TypeScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Other                    7 hrs 30 mins       ████████████████░░░░░░░░░   64.09 % 
+Text                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Python                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 🐱‍💻 Projects: 
-observer-sessions        6 hrs 25 mins       ████████████░░░░░░░░░░░░░   46.74 % 
-salux-ai frontend-backend3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-licita-hub               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-baseline                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-yolo_smoke               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+observer-sessions        5 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.72 % 
+salux-ai frontend-backend2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+licita-hub               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+baseline                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+yolo_smoke               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 💻 Operating System: 
-Windows                  13 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2026 05:57:59 UTC
+ Last Updated on 05/11/2026 06:19:06 UTC
 <!--END_SECTION:waka-->
 
 
