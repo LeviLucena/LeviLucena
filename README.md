@@ -47,9 +47,9 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.55%20million%20lines%20of%20code-blue?style=flat)
 
@@ -92,21 +92,21 @@ Sunday                   1890 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    7 hrs 30 mins       ████████████████░░░░░░░░░   64.09 % 
-Text                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Python                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Other                    5 hrs 40 mins       █████████████████░░░░░░░░   69.20 % 
+Python                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 🐱‍💻 Projects: 
-observer-sessions        5 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.72 % 
-salux-ai frontend-backend2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-licita-hub               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-baseline                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-yolo_smoke               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+observer-sessions        4 hrs 20 mins       █████████████░░░░░░░░░░░░   53.05 % 
+salux-ai frontend-backend1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+licita-hub               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+yolo_smoke               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+tender-talisman          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 💻 Operating System: 
-Windows                  11 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2026 06:19:06 UTC
+ Last Updated on 06/11/2026 06:13:16 UTC
 <!--END_SECTION:waka-->
 
 
