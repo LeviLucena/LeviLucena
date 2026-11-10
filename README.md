@@ -92,21 +92,21 @@ Sunday                   1890 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    5 hrs 34 mins       ████████████████░░░░░░░░░   63.45 % 
-Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Other                    6 hrs 20 mins       ██████████████░░░░░░░░░░░   57.14 % 
+Markdown                 2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Text                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🐱‍💻 Projects: 
-observer-sessions        4 hrs 47 mins       ██████████████░░░░░░░░░░░   54.51 % 
-neuraltrust-poc          1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-licita-hub               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-salux-ai frontend-backend30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-kaggle-llm-classification20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+observer-sessions        5 hrs 28 mins       ████████████░░░░░░░░░░░░░   49.30 % 
+neuraltrust-poc          2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+licita-hub               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+salux-ai frontend-backend36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+kaggle-llm-classification25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 💻 Operating System: 
-Windows                  8 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2026 05:55:30 UTC
+ Last Updated on 10/11/2026 07:01:36 UTC
 <!--END_SECTION:waka-->
 
 
