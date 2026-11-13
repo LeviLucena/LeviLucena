@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,7 +57,7 @@ Enjoying this project? Buy me a coffee ☕
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 679 Contributions in the Year 2026
+> 🏆 687 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -65,6 +65,50 @@ Enjoying this project? Buy me a coffee ☕
  > 
 > 🔑 57 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2293 commits        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+🌆 Daytime                3722 commits        █████████░░░░░░░░░░░░░░░░   37.68 % 
+🌃 Evening                3550 commits        █████████░░░░░░░░░░░░░░░░   35.94 % 
+🌙 Night                  313 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1687 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Tuesday                  645 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Wednesday                966 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Thursday                 986 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Friday                   1684 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Saturday                 2020 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Sunday                   1890 commits        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Other                    7 hrs 21 mins       █████████████░░░░░░░░░░░░   51.23 % 
+Markdown                 2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+JavaScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+
+🐱‍💻 Projects: 
+observer-sessions        6 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.99 % 
+neuraltrust-poc          3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+levi.lucena              1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+licita-hub               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+tender-talisman          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+
+💻 Operating System: 
+Windows                  14 hrs 22 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -82,7 +126,7 @@ PHP                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2026 06:57:36 UTC
+ Last Updated on 13/11/2026 06:17:24 UTC
 <!--END_SECTION:waka-->
 
 
