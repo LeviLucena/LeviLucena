@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-750%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,21 +92,21 @@ Sunday                   1890 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    7 hrs 21 mins       █████████████░░░░░░░░░░░░   51.23 % 
-Markdown                 2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-JavaScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Other                    10 hrs 9 mins       █████████████░░░░░░░░░░░░   52.91 % 
+Markdown                 3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+JavaScript               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+TypeScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 🐱‍💻 Projects: 
-observer-sessions        6 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.99 % 
-neuraltrust-poc          3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-levi.lucena              1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-licita-hub               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-tender-talisman          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+observer-sessions        8 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.70 % 
+neuraltrust-poc          3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+licita-hub               3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+levi.lucena              1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+tender-talisman          58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 💻 Operating System: 
-Windows                  14 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2026 06:17:24 UTC
+ Last Updated on 14/11/2026 06:01:40 UTC
 <!--END_SECTION:waka-->
 
 
