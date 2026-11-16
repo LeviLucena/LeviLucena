@@ -92,21 +92,21 @@ Sunday                   1890 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    10 hrs              ██████████████░░░░░░░░░░░   54.34 % 
-Markdown                 2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-TypeScript               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-JavaScript               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-JSON                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Other                    10 hrs 54 mins      ██████████████░░░░░░░░░░░   57.18 % 
+Markdown                 2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+TypeScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+JavaScript               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+JSON                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 🐱‍💻 Projects: 
-observer-sessions        8 hrs 13 mins       ███████████░░░░░░░░░░░░░░   44.61 % 
-licita-hub               2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-neuraltrust-poc          1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-tender-talisman          1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-levi.lucena              1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+observer-sessions        8 hrs 54 mins       ████████████░░░░░░░░░░░░░   46.63 % 
+licita-hub               2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+neuraltrust-poc          1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+levi.lucena              1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+tender-talisman          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 💻 Operating System: 
-Windows                  18 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2026 06:03:24 UTC
+ Last Updated on 16/11/2026 06:03:22 UTC
 <!--END_SECTION:waka-->
 
 
