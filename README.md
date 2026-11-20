@@ -47,32 +47,76 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-752%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.57%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.59%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 688 Contributions in the Year 2026
+> 🏆 724 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 63 Public Repositories 
+> 📜 64 Public Repositories 
  > 
 > 🔑 57 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2303 commits        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+🌆 Daytime                3722 commits        █████████░░░░░░░░░░░░░░░░   37.54 % 
+🌃 Evening                3571 commits        █████████░░░░░░░░░░░░░░░░   36.02 % 
+🌙 Night                  318 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1687 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Tuesday                  645 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Wednesday                988 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Thursday                 1000 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Friday                   1684 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Saturday                 2020 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Sunday                   1890 commits        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Other                    9 hrs 4 mins        ███████████████░░░░░░░░░░   59.34 % 
+Markdown                 1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+TypeScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Diff                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+
+🐱‍💻 Projects: 
+observer-sessions        7 hrs 33 mins       ████████████░░░░░░░░░░░░░   49.44 % 
+reforma-tributaria       3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+tender-talisman          1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+salux-ai frontend-backend23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+memory                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+
+💻 Operating System: 
+Windows                  15 hrs 16 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               41 repos            █████████░░░░░░░░░░░░░░░░   34.75 % 
-Python                   28 repos            ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-HTML                     25 repos            █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-PHP                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+TypeScript               42 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
+Python                   28 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+HTML                     25 repos            █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+PHP                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -82,7 +126,7 @@ PHP                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2026 07:04:24 UTC
+ Last Updated on 20/11/2026 06:56:19 UTC
 <!--END_SECTION:waka-->
 
 
