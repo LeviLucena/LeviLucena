@@ -57,31 +57,31 @@ Enjoying this project? Buy me a coffee ☕
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 724 Contributions in the Year 2026
+> 🏆 728 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 64 Public Repositories 
  > 
-> 🔑 57 Private Repositories 
+> 🔑 58 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2303 commits        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-🌆 Daytime                3722 commits        █████████░░░░░░░░░░░░░░░░   37.54 % 
-🌃 Evening                3571 commits        █████████░░░░░░░░░░░░░░░░   36.02 % 
+🌞 Morning                2303 commits        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+🌆 Daytime                3722 commits        █████████░░░░░░░░░░░░░░░░   37.53 % 
+🌃 Evening                3574 commits        █████████░░░░░░░░░░░░░░░░   36.04 % 
 🌙 Night                  318 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1687 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Tuesday                  645 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Wednesday                988 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Thursday                 1000 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Friday                   1684 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Saturday                 2020 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Monday                   1687 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Tuesday                  645 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Wednesday                988 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Thursday                 1000 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Friday                   1684 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Saturday                 2023 commits        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
 Sunday                   1890 commits        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
 ```
 
@@ -92,31 +92,31 @@ Sunday                   1890 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    6 hrs 21 mins       ██████████████░░░░░░░░░░░   54.53 % 
-Markdown                 1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Diff                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Other                    6 hrs 1 min         █████████████░░░░░░░░░░░░   52.64 % 
+Markdown                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Diff                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🐱‍💻 Projects: 
-observer-sessions        5 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.04 % 
-reforma-tributaria       3 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.31 % 
-tender-talisman          52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-salux-ai frontend-backend15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-neuraltrust-poc          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+observer-sessions        5 hrs 25 mins       ████████████░░░░░░░░░░░░░   47.40 % 
+reforma-tributaria       3 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
+tender-talisman          52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+salux-ai frontend-backend15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+neuraltrust-poc          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 Operating System: 
-Windows                  11 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               42 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
-Python                   28 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-HTML                     25 repos            █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-PHP                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+TypeScript               42 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
+Python                   28 repos            ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+HTML                     26 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+PHP                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 ```
 
 
@@ -126,7 +126,7 @@ PHP                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 06:51:05 UTC
+ Last Updated on 22/11/2026 06:20:34 UTC
 <!--END_SECTION:waka-->
 
 
