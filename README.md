@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,21 +92,21 @@ Sunday                   1890 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    6 hrs 1 min         █████████████░░░░░░░░░░░░   52.64 % 
-Markdown                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Diff                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Other                    5 hrs 45 mins       █████████████░░░░░░░░░░░░   52.88 % 
+Markdown                 2 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Diff                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🐱‍💻 Projects: 
-observer-sessions        5 hrs 25 mins       ████████████░░░░░░░░░░░░░   47.40 % 
-reforma-tributaria       3 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
-tender-talisman          52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-salux-ai frontend-backend15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-neuraltrust-poc          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+observer-sessions        5 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.51 % 
+reforma-tributaria       3 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.44 % 
+Espelho-de-raio-X        23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+salux-ai frontend-backend15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+neuraltrust-poc          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Windows                  11 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2026 06:20:34 UTC
+ Last Updated on 23/11/2026 07:12:34 UTC
 <!--END_SECTION:waka-->
 
 
