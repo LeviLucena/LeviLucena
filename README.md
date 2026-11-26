@@ -47,7 +47,7 @@ Enjoying this project? Buy me a coffee ☕
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-757%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,21 +92,21 @@ Sunday                   1890 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    8 hrs 22 mins       ██████████████░░░░░░░░░░░   57.05 % 
-Markdown                 2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-TypeScript               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Diff                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Other                    6 hrs 9 mins        ██████████████░░░░░░░░░░░   55.69 % 
+Markdown                 2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+TypeScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Diff                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🐱‍💻 Projects: 
-observer-sessions        7 hrs 34 mins       █████████████░░░░░░░░░░░░   51.59 % 
-reforma-tributaria       3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-Espelho-de-raio-X        49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-avatar-ai-platform       34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Salux CRM                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+observer-sessions        5 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.40 % 
+reforma-tributaria       2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Espelho-de-raio-X        49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Salux CRM                40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+avatar-ai-platform       34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 💻 Operating System: 
-Windows                  14 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ PHP                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LeviLucena/LeviLucena/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 08:07:55 UTC
+ Last Updated on 26/11/2026 07:58:47 UTC
 <!--END_SECTION:waka-->
 
 
